@@ -1,0 +1,50 @@
+{"text": "Daniel Loman", "header": "personal"}
+{"text": "Address", "header": "personal"}
+{"text": "59 Northgate Drive", "header": "personal"}
+{"text": "Albany, NY 12203", "header": "personal"}
+{"text": "Education", "header": "educ"}
+{"text": "M.S. Analytics, University of San Francisco", "header": "educ"}
+{"text": "San Francisco, CA", "header": "educ"}
+{"text": "Contact", "header": "educ"}
+{"text": "(518) 542-8802", "header": "educ"}
+{"text": "dloman@dons.usfca.edu", "header": "educ"}
+{"text": "July 2015", "header": "educ"}
+{"text": "Coursework: Machine Learning, Advanced Machine Learning, Data Acquisition, Linear Re-", "header": "educ"}
+{"text": "gression, Time Series Analysis, Linear Algebra, Probability and Statistics, Relational Databases", "header": "educ"}
+{"text": "(SQL), Data Visualization, Distributed Computing, Multivariate Statistics", "header": "educ"}
+{"text": "Certi\ufb01cations: Base SAS", "header": "educ"}
+{"text": "B.S. Physics, Siena College", "header": "educ"}
+{"text": "Minors in Mathematics and Computational Science", "header": "educ"}
+{"text": "Loudonville, NY", "header": "educ"}
+{"text": "May 2014", "header": "educ"}
+{"text": "Projects", "header": "educ"}
+{"text": "Using Semantics for Sentiment Analysis", "header": "educ"}
+{"text": "\u2022 Classi\ufb01ed 25,000 movie reviews as positive or negative using sentiment analysis with an", "header": "educ"}
+{"text": "Area under the ROC curve score of .96; Team is placed in top 10% of Kaggle competion", "header": "educ"}
+{"text": "\u2022 Used Bag of Words and Word2Vec models with TF-IDF implementation for feature", "header": "educ"}
+{"text": "engineering, and logistic regression and random forest models in sklearn for machine", "header": "educ"}
+{"text": "learning", "header": "educ"}
+{"text": "Predicting the 2015 NCAA Tournament", "header": "educ"}
+{"text": "\u2022 Created a model which predicts the win percentage of every potential matchup in the", "header": "educ"}
+{"text": "NCAA Tournament and forecasts the probability of every team advancing to each round", "header": "educ"}
+{"text": "with Monte Carlo simulation", "header": "educ"}
+{"text": "\u2022 Used mySQL, Python and Pandas to preprocess data, BeautifulSoup to scrape addi-", "header": "educ"}
+{"text": "tional data and sklearn to construct bagged logistic regression model", "header": "educ"}
+{"text": "Experience", "header": "experi"}
+{"text": "Data Science Intern", "header": "experi"}
+{"text": "Voodoo Sports", "header": "experi"}
+{"text": "San Francisco, CA", "header": "experi"}
+{"text": "April 2015 - present", "header": "experi"}
+{"text": "\u2022 Analyzed MLB game and player projections to identify ways to improve their model", "header": "experi"}
+{"text": "simulations.", "header": "experi"}
+{"text": "\u2022 Applied regression and machine learning techniques to model MLB game and player", "header": "experi"}
+{"text": "statistics using data from the 2013-2015 seasons.", "header": "experi"}
+{"text": "October 2014 - April 2015", "header": "experi"}
+{"text": "Data Science Intern", "header": "experi"}
+{"text": "Flyr, Inc.", "header": "experi"}
+{"text": "San Francisco, CA", "header": "experi"}
+{"text": "\u2022 Analyzed and manipulated large datasets pulled from Flyr\u2019s RedShift database", "header": "experi"}
+{"text": "\u2022 Validated company\u2019s current price prediction methods by creating and backtesting air-", "header": "experi"}
+{"text": "fare price prediction algorithms with random forest models in Python and Pandas", "header": "experi"}
+{"text": "\u2022 Predicted airfare booking classes 1-7 days ahead with over 80% accuracy using historical", "header": "experi"}
+{"text": "probability distributions and a Markov chain", "header": "experi"}
