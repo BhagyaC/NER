@@ -1,0 +1,141 @@
+RAJESH KUMAR POLANI 
+208 Pheasant Hollow Drive, Plainsboro, NJ, 08536 
+Email: rajeshkumar2820@gmail.com                                                                                         Mobile: (859) 351-4542               
+                                                                                                                                                       
+Professional Summary 
+ 
+  3+ years of experience in programming using MATLAB 
+  6 months of working experience using Python, Simulink and Verilog 
+  2+ years of working  experience using C, C++, C# 
+  Experience and good understanding of Object Oriented Programming and Design (OOP) 
+  Working knowledge in scripting languages PERL and Shell Scripting 
+  6 months of experience in working with tools such as Cadence - Virtuoso, Encounter, Synopsys – HSPICE 
+  2+ years of experience in working with Linux and Unix 
+  1+ year of experience with database tools such as MySQL 
+  Excellent communication, problem solving and organization skills with high level of attention to detail 
+ork Experience 
+roundMetrics, Inc. – Signal Processing Engineer and Programmer                             Nov 2014 – Till date 
+  Responsible for software development, data processing and data analysis in the field of Signal Processing 
+  Responsible for conceptualizing applications using Python, platform selection and wire-frame modelling 
+  Set up functionality, perform User Interface design, prototype development and revision testing 
+  Develop code, test and debug software applications 
+  Quality Control and systematic improvement of Software applications and work flow processes 
+  Developed signal processing function in Python viz. PSD, Noise, Coherence, Transfer Function, STFT and 
+windowing technique 
+  Developed automated tools which play a key role in data collection, data analysis and data processing 
+he MathWorks - MATLAB Graphics Engineering Intern                                              May 2013 – Dec 2013 
+  Worked on Handling Graphics  part of upcoming MATLAB version R2014b 
+  Developed MATLAB scripts, capable of executing external codes from multiple diverse sources, capture 
+screen shot of results viz. figures, plots and record error messages and warnings 
+Identified new bugs and incompatibilities in the new release 
+ 
+  Compared and analyzed the results for visual differences in current and upcoming releases 
+  Analyzed warnings and error messages related to graphics  
+ata Consultancy Services, India – Systems Engineer                                                        Nov 2008 – Aug 2011 
+Identified root causes for many of recurring technical issues and provided robust solutions 
+  Responsible for handling two critical applications Transfer and Receiving for the client The Home Depot 
+  Worked on maintaining IT applications viz. Inventory Management and Stores 
+  Offered post production monitoring and maintenance support 
+ 
+  Automated day to day maintenance activities for the clients – The Home Depot & JC Penney 
+  Conducted and coordinated team meeting with clients 
+  Debugged many critical issues and gave permanent fixes 
+ 
+  Has been a proactive team member and awarded Rock Solid by JC Penney 
+Improved application performance and reduced technical related issues 
+ 
+Academic Projects 
+oise Suppression Algorithms for Cochlear Implant – INDEPENDENT STUDY            
+  Objective is to classify background and suppress noise to enhance hearing 
+  Continuous Interleaved Sampling, Advanced Combination Encoder and Wavelet Packet Transform  used for 
+decomposing the input signal picked by microphone 
+  Noise Environment Detection system  is run in parallel to detect background noise  in the input signal 
+  Gain is estimated and applied to suppress noise in the frame 
+ 
+  Modulated envelopes are applied to stimulate electrodes in the cochlear implant 
+Input signal is analyzed and its envelope is extracted 
+ W
+ G
+ 
+ T
+ 
+ T
+ 
+ N
+ 
+
+
+eural Network Classifier for signal modeling and classification                     
+  Goal of project is to develop a classifier using Neural Network structure 
+  Designed and implemented Neural Network structure  in ‘C’ programming using Backpropagation algorithm 
+  Used Gradient Descent Algorithm to train and validate network structure and found an optimum configuration 
+for signal modeling and classification 
+  Developed  graphical  user  interface  for  user  to  set  inputs parameters,  desired  output,  hidden  layers,  hidden 
+nodes in each layer, learning rate and to re-randomize 
+omparison of Image Blur Reduction Techniques 
+ 
+Inertial Sensor Approach 
+  Developed and implemented inertial sensor approach using PSF and Wiener filter in MATLAB 
+  Generated Point Spread Function (PSF) for the blurred images 
+  Used PSF with Wiener filter to achieve de-blurred image 
+  Objective and Subjective analysis were done on the 50 resulting de-blurred images 
+xposure Control Approach 
+  Used dark looking image with low exposure setting and blurred image with brightness and contrast. 
+  Adaptive Tonal Correction is performed by using the information in the blurred image to achieve de-blurring 
+  Tonal  correction  performs  histogram  shifting  by  moving  the  mean  of  the  darker  input  image  towards  the 
+brighter side of the histogram 
+  Objective and Subjective analysis were done on the 50 resulting de-blurred images 
+ N
+ C
+ D
+ E
+esign and Verification of a 16 Bit ALU using IBM 130 nm CMOS Technology                                                                              
+  RTL was designed and verified using Verilog. 
+  A  library  with  6  combinational  gates  and  one  flip  flop  was  designed  using  Cadence  Virtuoso.  It  was 
+characterized  and  generated  using  Liberty  NCX.  The  generated  library  was  used  as  the  target  library  to 
+synthesize the design. 
+  The PnR was done using Encounter and Static Timing analysis was done using Primetime. 
+  Physical Verification was conducted and the spice netlist was extracted 
+  Functionality was verified through SPICE simulations using HSPICE 
+Spectral Shaping 
+  Objective is to find an estimate for desired signal from measured signal using NMLS Adaptive Filter 
+  Desired signal contained sinusoids with predefined amplitudes and frequencies 
+  Developed a MATLAB script to determine optimum impulse response and order by calculating MMSE 
+  Variance of the white noise was estimated using Pisarenko Algorithm 
+FIR Filter package 
+Involved design for Low Pass, High Pass, Band Pass and Band Stop filters  
+  Developed a user interface package in MATLAB to design linear phase FIR filters 
+ 
+  User can choose filter type, windowing technique and specify filter parameters 
+ 
+Implemented appropriate error handling and messaging system 
+ 
+  MSEE - University of Texas at Dallas 
+  
+  BE, Electronics and Communication Engineering 
+ 
+ 
+ 
+ 
+ 
+       Dec 2013 
+             Anna University, Chennai, India                                                                                                   May 2008 
+ 
+ 
+Education 
+
+ T
+echnical Skills 
+            : MATLAB, C, C++, Python, C#, Verilog, 
+  Languages 
+  Tools  Simulator         : Cadence - Virtuoso, Encounter, Synopsys - HSPICE  
+  Database 
+  Web Programming 
+  Application Software   : MS Office professional 
+  Operating Systems 
+: MySQL 
+: Shell Script, ASP.NET, ADO.NET, HTML 
+: Windows, UNIX, LINUX 
+ 
+
+

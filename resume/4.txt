@@ -1,0 +1,45 @@
+Yun	  Zhang	  
+180	  Foster	  Drive,	  Apt	  F,	  Willimantic,	  Connecticut,	  06226	  
+LinkedIn:	  www.linkedin.com/pub/yun-­‐zhang/a5/657/195/en	  
+zhangyun910628@hotmail.com	  |	  (860)208-­‐8497	  
+EDUCATION	  	  	  
+University	  of	  Connecticut,	  Storrs,	  CT	  
+Master	  of	  Science,	  Statistics	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  May,	  2015	  
+Shanghai	  Jiao	  Tong	  University,	  Shanghai,	  China	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+Bachelor	  of	  Science,	  Mathematics	  &	  Applied	  Mathematics,	  Minor	  in	  Accountancy	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  June,	  2013	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+OMPUTATIONAL	  SKILLS	  
+Proficient	  in	  SAS,	  SAS	  Marco	  language,	  SAS/SQL,	  SAS/Base,	  SAS/STAT	  
+SAS	  Certified	  Advanced	  Programmer	  for	  SAS	  9	  	  	  	  (98/100)	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  Mar,2015	  
+SAS	  Certified	  Base	  Programmer	  for	  SAS	  9	  	  	  	  (87/100)	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  Mar,2015	  
+SAS	  Certified	  Statistical	  Business	  Analyst	  Using	  SAS	  9:	  Regression	  and	  Modeling	  (82/100)	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  June,2015	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+SQL,	  Data	  retrieving,	  Filtering,	  Subqueries,	  Table	  Joins/Creates,	  Insert/delete	  data	  
+R/R	  studio,	  If-­‐else/for/while	  loop,	  Loop	  functions,	  Debugging	  tools,	  Simulation	  and	  Profiling	  
+Excel,	  Create,	  Manipulate	  and	  formulate	  spreadsheets,	  Vlookup,	  Pivot	  tables,	  Charts	  and	  graphing	  
+	  C
+	  F
+	  P
+ROJECT	  EXPERIENCES	  
+University	  of	  Connecticut,	  Storrs,	  CT,	  Department	  of	  Statistics	  
+#1	  Statistical	  Research,	  under	  instruction	  of	  Professor	  Yuping	  Zhang.	  	  	  
+“Lasso	  theory	  and	  its	  extension	  in	  the	  animal	  QTL	  mapping.”	  	  
+Used	  Matlab	  codes	  of	  Lasso	  and	  its	  extensions	  to	  perform	  penalized	  fits,	  in	  order	  to	  figure	  out	  the	  effects	  of	  QTLs	  and	  
+make	  predictions.	  
+#2	  Applied	  Statistics	  Project,	  under	  instruction	  of	  Professor	  Elizabeth	  Schifano.	  	  
+“Impact	  Factors	  of	  Crime	  Rate”	  
+Performed	  multiple	  linear	  regression	  to	  test	  different	  factors’	  (total	  of	  seven,	  like	  Gini	  coefficients,	  etc.)	  effects	  on	  the	  
+crime	  rate	  in	  China.	  Utilized	  Proc	  Import	  to	  load	  in	  the	  data,	  Proc	  means	  to	  summary	  the	  data,	  Proc	  plot	  to	  make	  
+graphical	  displays	  and	  Proc	  Reg	  to	  perform	  Multiple	  Linear	  Regression.	  
+#3	  Time	  Series	  Project,	  under	  instruction	  of	  Professor	  Nalini	  Ravishanker.	  	  
+	  “State-­‐Space	  Model	  Fit	  for	  Electroencephalography	  Data.”	  
+Utilized	  R	  programming	  skills	  (data	  loading,	  cleaning	  and	  analysis)	  to	  Fit	  Kalman	  filter	  and	  Kalman	  smooth	  model	  to	  
+the	  children	  EEG	  data,	  in	  order	  to	  predict	  the	  start	  time	  of	  the	  seizure.	  	  
+Shanghai	  China	  Link	  Private	  Equity	  Investment	  and	  Management	  Co.	  Ltd.	  
+Summer	  Intern,	  Summer	  2011	  &	  2012.	  
+•  Assisted	  with	  analysis	  of	  the	  target	  companies’	  accounting	  statements.	  
+•  Collaborated	  statistical	  analyst	  to	  collect,	  process	  and	  analyze	  financial	  data	  using	  Excel.	  
+ORK	  EXPERIENCES	  
+	  W
+amiliar	  with:	  C/C++,	  Matlab,	  Hadoop,	  Python	  
+Applications:	  Microsoft	  Office:	  Word,	  Powerpoint	  
+
+

@@ -43,5 +43,8 @@ def pdf_to_text1(f_name, pages=None) -> list:
 
     # Convert text into list
     line_list = [x for x in text.split('\n') if x.strip()]
-    #print (line_list)
+    print (line_list)
     return line_list
+f_name = './Linkedin/Abhishek Jain.pdf'
+pdf_to_text1(f_name)
+

@@ -4,7 +4,7 @@ import nltk
 from nltk.stem.porter import *
 
 stemmer = PorterStemmer()
-nlp = spacy.load("en_core_web_md")
+nlp = spacy.load("en_core_web_sm")
 
 def stemming(data):
     doc2 = nlp(data)

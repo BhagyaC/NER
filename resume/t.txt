@@ -1,0 +1,103 @@
+Abhisek Kundu
+Contact
+Information
+Objective
+Research
+Interests
+Lally 02, Computer Science,
+Rensselaer Polytechnic Institute
+110 8th Street, Troy, NY 12180, USA
+E-mail: abhisekkundu@gmail.com
+Web: www.cs.rpi.edu/∼kundua2
+Obtaining full-time position in Machine Learning/Data Mining/Algorithms.
+My research spans machine learning, compressive sensing, and randomized algorithms in numerical
+linear algebra. Speciﬁcally, I am working on various probabilistic techniques to sample a small
+number of elements from a matrix to perform tasks such as sparsiﬁcation (producing a sparse matrix
+from fully observed data) and reconstruction (recovering the original matrix from partially-observed
+data). These methods are useful in eﬃcient large-scale data analysis (e.g. social networks analysis,
+bioinformatics, image processing, text/web mining) and matrix completion (e.g. recommendation
+systems).
+Education
+Rensselaer Polytechnic Institute, Troy, New York, USA
+Ph.D., Computer Science, August 2015
+• Dissertation Topic: “Element-wise Matrix Sparsiﬁaction and Reconstruction”
+• Advisor: Petros Drineas
+The Ohio State University, Columbus, Ohio, USA
+M.S., Computer Science and Engineering, 2012
+• Advisor: Luis Rademacher
+Jadavpur University, Kolkata, India
+B.E., Computer Science and Engineering, 2006
+• Advisor: Atal Chaudhuri
+Academic
+Experience
+Rensselaer Polytechnic Institute, Troy, New York USA
+Graduate Research Assistant, Computer Science Department
+January 2013 - present
+Working on various projects on randomized algorithms in numerical linear algebra, optimization,
+and machine learning.
+Graduate Teaching Assistant, Computer Science Department
+Grading Machine Learning course.
+August - December, 2012
+The Ohio State University, Columbus, Ohio USA
+Graduate Research Assistant
+Worked on randomized algorithms for column subset selection problem.
+January - March, 2012
+Instructor/Graduate Teaching Assistant
+March - May, September - December, 2011
+Taught undergraduate course on Programming and Algorithms in Computer Science and Engi-
+neering Department. Responsibilities included lectures, preparing homework, lab assignments, and
+examination questions, grading, and proctoring.
+• CSE202 Introduction to Programming and Algorithms for Engineers and Scientists, Spring and
+Autumn 2011.
+Graduate Research Assistant
+Worked on various projects on gene expression data analysis and genetic network analysis.
+January 2009 - March, 2011
+1
+
+
+Publications and
+Working Papers
+• A. Kundu Relaxed Leverage Sampling for Low-rank Matrix Completion.
+http://arxiv.org/pdf/1503.06379.pdf, 2015.
+• A. Kundu, P. Drineas, M. Magdon-Ismail. Approximating Sparse PCA from Incomplete Data.
+http://arxiv.org/pdf/1503.03903.pdf, 2015.
+• A. Kundu, P. Drineas, M. Magdon-Ismail. Recovering PCA from Hybrid-((cid:96)1, (cid:96)2) Sparse Sampling
+of Data Elements.
+http://arxiv.org/pdf/1503.00547.pdf, 2015.
+• A. Kundu, P. Drineas. Identifying Inﬂuential Entries in a Matrix. 2015 (working).
+• A. Kundu, P. Drineas, M. Magdon-Ismail. CUR-based Element-wise Matrix Reconstruction. 2015
+(working).
+• A. Kundu, P. Drineas. A Note on Randomized Element-wise Matrix Sparsiﬁcation.
+http://arxiv.org/pdf/1404.0320v1.pdf, 2014.
+• P. Payne, K. Huang, K. Keen-Circle, A. Kundu, J. Zhang, T. Borlawsky. Multi-dimensional
+Discovery of Biomarker and Phenotype Complexes. BMC Bioinformatics 2010, 11(Suppl 9):S3
+• A. Kundu, H.G. Ozer, T. Borlawsky, K. Keen-Circle, K. Huang, P. Payne. Clinical Attribute
+Network for Chronic Lymphocytic Leukemia. IEEE BIBM 2009, (279 - 282).
+• B. B. Chaudhuri, A. Kundu. Synthesis of Individual Handwriting in Bangla Script. International
+Conference on Frontiers in Handwriting Recognition, 2008.
+• A. Kundu, A. Chaudhuri, D. Ghosh, S. Bhattacharyya, A. Chaudhuri. Watermarking in
+JPEG2000 Coding Pipeline Using Quantization Index Modulation.
+International Conference on
+Information Technology, Vol-I, 144-150, ISSN 0973-6824, 2007.
+Professional
+Experience
+George Edcare, Kolkata, India
+Part-time Faculty
+January - July, 2008
+Worked as faculty in Mathematics at George Edcare in Kolkata, India. Duties included teaching,
+grading, and designing course materials for GRE and GMAT aspirants.
+Amdocs Product and Development Organization, Pune, India
+Subject Matter Expert
+July 2006 - June 2007
+Worked as an expert in Software Development at Amdocs Product and Development Organization
+in India. Duties focused on incorporating customization on existing softwares, and developing new
+software products.
+• Member of a team receiving special recognition from the CEO for the release of a new product,
+2007.
+Computer Skills
+• Coding: Matlab, Java, C, C++, Unix shell scripts, HTML, JavaScript, CSS.
+• Operating Systems: Unix/Linux, Windows.
+• Typography: Latex.
+2
+
+

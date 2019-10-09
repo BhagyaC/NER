@@ -19,6 +19,7 @@ nlp = spacy.load("en_core_web_md")
 doc = nlp(u"Professional Experience Industrial Experience Research Experience Technical Experience Relevant Experience Professional Development Work Experience Professional Profile Professional Background Professional Employment ")
 doc2 =nlp(u"Computer Skills Statistical Packages Software Knowledge Technical Skills Core/Key Competencies(separate header - incase skills and core competencies, both exists in the resume) Summary of skills Computer Skills Key Skills Technical Strengths Technical Background Tools Technology ")
 doc3 = nlp(u"Publications / Awards Honors Certifications Awards and Recognitions")
+doc4 = nlp(u"academic projects assignments")
 """for chunk in doc.noun_chunks:
     print(chunk.text, chunk.root.text, chunk.root.dep_, chunk.root.head.text)
 for token in doc:
@@ -34,6 +35,6 @@ for entity in doc.ents:
 for noun in doc.noun_chunks:
     print(noun.text)"""
 
-for token in doc3:
+for token in doc4:
     print(token.text + ' --> ' + stemmer.stem(token.text))
     print(token.text + '2 --> ' + stemmer2.stem(token.text))

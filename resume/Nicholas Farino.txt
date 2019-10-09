@@ -1,0 +1,55 @@
+E: naf36@cornell.edu	  	  M: 631-456-6063	  	  Northport, NY 11768	  
+Nicholas A. Farino 
+Systems Engineering & Data Science 
+	  
+	  
+ 
+Meticulous Systems Engineer who employs inventive algorithms and multi-disciplinary 
+thinking to solve some of the most complex engineering problems. Possesses technical and 
+social skills necessary to thrive in fast-paced team settings. Applies model-based systems 
+engineering tools to organize product requirements and exceed deliverable expectations. 
+Core competencies include: 
+Modeling & Simulation	  	  Systems Engineering	  	  Product Development	  	  Algorithm Analysis	  
+Software Engineering	  	  Machine Learning	  	  Optimization	  	  Data Science	  	  Team Management	  
+Cornell University’s Violet Nanosatellite Team	  	  2014 – Present	  
+Academic Experience 
+Violet is a nanosatellite, set to launch May 2016, that utilizes eight Control Moment 
+Gyroscopes to experimentally validate high-agility attitude control and CMG steering laws. 
+imulation/Multi-disciplinary Engineer 
+Constructs program in Matlab/Simulink that simulates space environment and spacecraft 
+dynamics in order to assess ability of Violet’s flight computer to receive commands and control 
+	  
+satellite attitude. Programs flight computer used to control satellite attitude in C. 
+	  
+	  	  	  	  	  	  	  	  	  	  Generated and prepared over 20 failure scenarios for simulation to test	  
+	  	  	  	  	  	  	  	  	  	  Implemented extended kalman filter and sensor noise reduction into flight computer	  
+ornell University’s AguaClara Research Team	  	  June – December 2014	  
+	  C
+AguaClara is a multi-disciplinary program that designs sustainable water treatment systems 
+committed to long-term environmental, social, and economic sustainability. 
+	  S
+	  
+	  
+ 
+	  
+Organized product requirements and deadlines for team of six in order to design filter that did 
+not clog when filtering muddy water conditions. Conducted experiments and analyzed data in 
+	  
+order to find conditions such that the design would not clog. 
+	  	  	  	  	  	  	  	  	  	  Used self-written data analysis algorithm to identify properties and trends in large 
+experimental data sets	  
+Master of Engineering in Systems Engineering expected December 2015	  	  GPA: 3.7	  
+Associate of Arts May 2013 	  GPA: 3.92 
+Bachelor of Science, cum laude, Civil Engineering, May 2015  GPA: 3.51 
+lorida Atlantic University, College of Engineering, Boca Raton, FL 
+Cornell University, College of Engineering, Ithaca, NY 
+Education 
+	   
+ F
+ 
+	  
+ackwash Filter Systems Engineer 
+	  B
+Minor in Mathematics May 2013 
+
+
